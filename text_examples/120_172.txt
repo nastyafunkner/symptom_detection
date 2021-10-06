@@ -1,0 +1,74 @@
+<div style="overflow-x: auto;"><table border="1" width="100%" cellspacing="0" cellpadding="0">
+ 
+ 
+ 
+<p align="center">№ п/п 
+ 
+ 
+<p align="center">Критерии качества 
+ 
+ 
+<p align="center">Уровень убедительности рекомендаций 
+ 
+ 
+<p align="center">Уровень достоверности доказательств 
+ 
+ 
+<tr class="marker-10">
+ 
+<p align="center">1. 
+ 
+<td valign="top">
+ <span class="marker-10"> Выполнен осмотр врачом-кардиологом не позднее 10 минут от момента поступления в стационар 
+ 
+ 
+<p align="center">IIa 
+ 
+ 
+<p align="center">С 
+ 
+ 
+<tr class="marker-10">
+ 
+<p align="center">2. 
+ 
+<td valign="top">
+ Выполнен анализ крови биохимический общетерапевтический (кальций, магний, калий, натрий) 
+ 
+ 
+<p align="center">I 
+ 
+ 
+<p align="center">С 
+ 
+ 
+<tr class="marker-10">
+ 
+<p align="center">3. 
+ 
+<td valign="top">
+ Выполнено электрокардиографическое исследования не позднее 10 минут от момента поступления в стационар 
+ 
+ 
+<p align="center">I 
+ 
+ 
+<p align="center">С<span class="founded-marker-close marker-10">  
+ 
+ 
+ 
+ 
+<p align="center">4. 
+ 
+<td valign="top" class="marker-11">
+ <span class="marker-11"> Проведена электроимпульсная терапия и/или временная/постоянная электрокардиостимуляция и/или проведена терапия антиаритмическими лекарственными препаратами внутривенно не позднее 30 минут от момента поступления в стационар (в зависимости от медицинских показаний и при отсутствии медицинских противопоказаний) 
+ 
+<td class="marker-11">
+<p align="center">I 
+ 
+<td class="marker-11">
+<p align="center">С<span class="founded-marker-close marker-11">  
+ 
+ 
+ 
+  

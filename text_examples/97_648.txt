@@ -1,0 +1,116 @@
+<table align="center" border="1" cellpadding="1" cellspacing="1" style="width:500px">
+	 
+		 
+			<td style="text-align: center;">№ 
+			<td style="text-align: center;">Критерии качества 
+			<td style="text-align: center;">Уровень<br />
+			достоверности<br />
+			доказательств 
+			<td style="text-align: center;">Уровень<br />
+			убедительности<br />
+			рекомендаций 
+		 
+		 
+			<td colspan="4" style="text-align: center;">Этап постановки диагноза 
+		 
+		 
+			<td style="text-align: center;">1. 
+			<td style="text-align: center;">Выполнен полноценный неврологический<br />
+			осмотр с постановкой топического и клинического диагнозов с применением<br />
+			шкалы ком Глазго, шкалы H-H. 
+			<td style="text-align: center;">2a 
+			<td style="text-align: center;">B 
+		 
+		 
+			<td style="text-align: center;">2 
+			<td style="text-align: center;">Выполнены консультация врачом-неврологом<br />
+			и врачом-акушером-гинекологом 
+			<td style="text-align: center;">2b 
+			<td style="text-align: center;">B 
+		 
+		 
+			<td style="text-align: center;">3. 
+			<td style="text-align: center;">Выполнена КТ головного мозга или МРТ<br />
+			головного мозга 
+			<td style="text-align: center;">2b 
+			<td style="text-align: center;">B 
+		 
+		 
+			<td style="text-align: center;">4. 
+			<td style="text-align: center;">Выполнены электрокардиография в трех<br />
+			стандартных отведениях и шести грудных, а<br />
+			также aVR, aVL, aVF, УЗИ плода с оценкой<br />
+			маточно-плацентарного кровотока. 
+			<td style="text-align: center;">2b 
+			<td style="text-align: center;">B 
+		 
+		 
+			<td style="text-align: center;">5. 
+			<td style="text-align: center;">Выполнена повторный консультация врачом-<br />
+			акушером-гинекологом 
+			<td style="text-align: center;">2a 
+			<td style="text-align: center;">B 
+		 
+		 
+			<td style="text-align: center;">6. 
+			<td style="text-align: center;">Выполнена транскраниальная<br />
+			допплерография с вычислением индексов<br />
+			Линдегарда (при наличии медицинских<br />
+			показаний) 
+			<td style="text-align: center;">2b 
+			<td style="text-align: center;">B 
+		 
+		 
+			<td style="text-align: center;">7. 
+			<td style="text-align: center;">Выполнен общий анализ крови с подсчетом<br />
+			лейкоцитарной формул и биохимический<br />
+			анализ крови (мочевина, креатинин, общий<br />
+			белок, альбумин, общий билирубин, АЛТ,<br />
+			АСТ, ЛДГ, натрий, калий, хлор) и МНО 
+			<td style="text-align: center;">2b 
+			<td style="text-align: center;">B 
+		 
+		 
+			<td colspan="4" style="text-align: center;">Этап хирургического лечения 
+		 
+		 
+			<td style="text-align: center;">1. 
+			<td style="text-align: center;">Выполнено хирургическое вмешательство в<br />
+			отношении источника кровоизлияния и/или<br />
+			направленное на устранение компрессии<br />
+			головного мозга сгустками крови (при<br />
+			наличии медицинских показаний) 
+			<td style="text-align: center;">2a 
+			<td style="text-align: center;">B 
+		 
+		 
+			<td colspan="4" style="text-align: center;">Этап послеоперационного ведения пациентки 
+		 
+		 
+			<td style="text-align: center;">1. 
+			<td style="text-align: center;">Проведен мониторинг уровня сознания,<br />
+			неврологического статуса не менее 3 раз в<br />
+			сутки. 
+			<td style="text-align: center;">2a 
+			<td style="text-align: center;">B 
+		 
+		 
+			<td style="text-align: center;">2. 
+			<td style="text-align: center;">Выполнено не менее одного контрольного<br />
+			послеоперационного исследования КТ/МРТ<br />
+			головного мозга за госпитализацию при<br />
+			условии транспортабельности пациентки. 
+			<td style="text-align: center;">4 
+			<td style="text-align: center;">С 
+		 
+		 
+			<td style="text-align: center;">3. 
+			<td style="text-align: center;">Выполнена оценка St. localis, достигнуто<br />
+			заживление ран, сняты швы. 
+			<td style="text-align: center;">2b 
+			<td style="text-align: center;">B 
+		 
+	 
+ 
+
+   

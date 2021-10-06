@@ -1,0 +1,54 @@
+<table border="1" cellpadding="1" cellspacing="1" style="width:100%">
+	 
+		 
+			<td style="text-align:center">№ 
+			<td style="text-align:center"><!--StartFragment-->Критерии качества<!--EndFragment--> 
+			 <!--StartFragment-->
+			<p style="text-align:center">Уровень достоверности 
+
+			<p style="text-align:center">доказательств 
+
+			<p style="text-align:center"><!--EndFragment--> 
+			 
+			<td style="text-align:center"><!--StartFragment-->Уровень убедительности рекомендаций<!--EndFragment--> 
+		 
+		 
+			<td style="text-align:center">1 
+			<td style="text-align:center"><!--StartFragment-->Выполнен неврологический осмотр<!--EndFragment--> 
+			<td style="text-align:center"><!--StartFragment-->4<!--EndFragment--> 
+			<td style="text-align:center"><!--StartFragment-->C<!--EndFragment--> 
+		 
+		 
+			<td style="text-align:center">2 
+			<td style="text-align:center"><!--StartFragment-->Выполнена КТ головного мозга и/или МРТ головного мозга в течение 1 часа от момента поступления в стационар<!--EndFragment--> 
+			<td style="text-align:center"><!--StartFragment-->1a<!--EndFragment--> 
+			<td style="text-align:center"><!--StartFragment-->A<!--EndFragment--> 
+		 
+		 
+			<td style="text-align:center">3 
+			<td style="text-align:center"><!--StartFragment-->Выполнены клинические анализы крови и мочи, исследование коагулограммы, МНО<!--EndFragment--> 
+			<td style="text-align:center"><!--StartFragment-->4<!--EndFragment--> 
+			<td style="text-align:center"><!--StartFragment-->C<!--EndFragment--> 
+		 
+		 
+			<td style="text-align:center">4 
+			<td style="text-align:center"><!--StartFragment-->Выполнено ультразвуковое дуплексное сканирование магистральных артерий головы<!--EndFragment--> 
+			<td style="text-align:center"><!--StartFragment-->4<!--EndFragment--> 
+			<td style="text-align:center"><!--StartFragment-->C<!--EndFragment--> 
+		 
+		 
+			<td style="text-align:center">5 
+			<td style="text-align:center"><!--StartFragment-->Выполнено хирургическое вмешательство в соответствии с клиническими рекомендациями (при наличии медицинских показаний и отсуствии медицинских противопоказаний)<!--EndFragment--> 
+			<td style="text-align:center"><!--StartFragment-->1a<!--EndFragment--> 
+			<td style="text-align:center"><!--StartFragment--><!--EndFragment--><!--StartFragment-->A<!--EndFragment--> 
+		 
+		 
+			<td style="text-align: center;">6 
+			<td style="text-align: center;"><!--StartFragment-->Отсутствие нагноения послеоперационной раны<!--EndFragment--> 
+			<td style="text-align: center;"><!--StartFragment-->4<!--EndFragment--> 
+			<td style="text-align: center;"><!--StartFragment-->C<!--EndFragment--> 
+		 
+	 
+ 
+
+   

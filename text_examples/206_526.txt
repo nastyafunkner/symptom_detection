@@ -1,0 +1,329 @@
+ 1.         Каверин Н.В., Львов Д.К., Щелканов М.Ю. Ортомиксовирусы (Orthomyxovlridae).  Руководство по вирусологии. Вирусы и вирусные инфекции человека и животных: монография; под ред. Д.К. Львова. — М.: МИА, 2013. – С. 307-314. 
+
+ 2.         Щелканов М.Ю. Таксономическая структура Orthomyxoviridae: современное состояние и ближайшие перспективы.  Вестник Российской академии медицинских наук. 2011;5: С. 12-19. 
+
+ 3.         Щелканов М.Ю., Колобухина Л.В., Львов Д.К. Грипп: история, клиника, патогенез. Лечащий врач. 2011;10: С. 33-38. 
+
+ 4.         Noda T., Kawaoka Y. Structure of influenza virus ribonucleoprotein complexes and their packaging into virions. Reviews in Medical Virology. 2010; 20(6): P. 380-391. 
+
+ 5.         Ge S., Wang Z. An overview of influenza A virus receptors. Critical Reviews in Microbiology. 2011; 37(2): P. 157-165. 
+
+ 6.         Gaur P., Munjhal A., Lal S. K. Influenza virus and cell signaling pathways. Medical Science Monitor. 2011; 17(6): P. RA148-154. 
+
+ 7          Rohm C., Zhou N., Suss J., Mackenzie J., Webster R. Characterization of novel influenza hemagglutinin HI5, criteria for determination of influenza A subtypes. Virology.1996; 217: Р.508-516. 
+
+ 8.         Field S., Winter G., Wraunlee G.C. Structure of the neuraminidase gene in human influenza virus A/PR/8/34. Nature. 1981; 290: Р.213-217. 
+
+ 9.         Wiley D.C., Skehel J.J. The structure and function of the hemagglutinin membrane glycoprotein of influenza virus. Annual Revier of Biochemistry. 1987;56: Р.365-394. 
+
+ 10.       Castrucci M.R., Kawaoka Y. Biologic importance of neuramidase stalk length in influenza A virus. J. Virol. 1993; 61(2): Р.759-764. 
+
+ 11.       Gamblin S. J., Skehel J. J. Influenza hemagglutinin and neuraminidase membrane glycoproteins. Journal of Biological Chemistry. 2010; 285(37): P. 28403-28409. 
+
+ 12.       Xu R., McBride R., Nycholat C. M., Paulson J. C., Wilson I. A. Structural characterization of the hemagglutinin receptor specificity from the 2009 H1N1 influenza pandemic. Journal of Virology. 2012; 86(2): P. 982-990. 
+
+ 13.       Gorman O.T., Bean W.J., Webster R.G. Evolutionary process in Influenza viruses: Divergence, Rapid Evolution and Stasis. Current topics in Microbiology and Immunology. 1992; 176: Р.75-97. 
+
+ 14.       Xu X., Guo Y., Rota P., Hemphill M., Kendal A., Cox N. Genetic reassortment of human influenza virus in nature. Options for the Control of Influenza. 1993; 2: Р.203-207. 
+
+ 15.       Castrucci M.R, Donatelli I., Sidoli L., Kawaoka Y., Webster R.G. Genetic reassortment between avian and human influenza A viruses in Italian pigs. Virology. 1993; 193: Р.503-506. 
+
+ 16.       Иванова В.Т., Бурцева Е.И., Оскерко Т.А. Изменчивость и особенности распространения вируса гриппа A(H1N1) в период 1990 – 1998гг. Вопр. вирусол. 2000;  5: С. 18-22. 
+
+ 17.       Lin Y.P., Shaw M., Gregory V. et al. Avian-to-human transmission of H9N2 subtype influenza A viruses. Relationship between H9N2 and H5N1 human isolated. PNAS. 2000; 97 (17): Р.9654-9658. 
+
+ 18.       Koopmans M., Wilbrink B., Conyn M. et al. Transmission of H7N7 avian influenza A virus to human beings during a large outbreak in commercial poultry farms in the Netherlands. Lancet. 2004; 363:Р.587-593. 
+
+ 19.       Wong S.S., Yuen K.Y. Avian Influenza virus infection in humans. Chest.2006; 129: Р. 156-168. 
+
+ 20.       Garten R.J., Davis C.T., Russell C.A. et al. Antigenic and henetic characteristics of swine-origin 2009 A(H1N1) influenza viruses circulating in humans. Science. 2009; 325 (5937): Р.197-201. 
+
+ 21.       Львов Д.К., Бурцева Е.И., Прилипов А.Г. и др. Изоляция 24.05.2009года и депонирование в Государственную коллекцию вирусов первого штамма A/Moscow/01/2009(H1N1)swl, подобного свиному вирусу A(H1N1) от первого выявленного 21.05.2009 года пациента в г. Москве. Вопросы вирусологии. 2009; 5: С. 10- 
+
+ 22.       Howard W. A., Essen S. C., Strugnell B. W. et al.  Reassortant pandemic (H1N1) 2009 virus in pigs, United Kingdom. Emerging Infectious Diseases.  2011;17(6): P. 1049-1052. 
+
+ 23.       Yewdell J. W. Viva la Revoluci?n: Rethinking Influenza A Virus Antigenic Drift. Current Opinion in Virology. 2011; 1(3): P. 177-183. 
+
+ 24.       Rota P.A., Wallis T.R., Harmon M.W., Rota J.S., Kendal A.P., Nerome K. Cocirculation of two distinct evolutionary lineages of influenza type B virus since 1983. Virology. 1990; 175: Р.59–68. 
+
+ 25.       Rota P.A., Hemphill M.L., Whistler I.L., Regnery H.L., Kendal A.P. Antigenic and genetic characterization of two hemagglutinins recent cocirculating strains of influenza type B virus. J. Gen. Virol.1992;73: Р.2737-2742. 
+
+ 26.       Гринбаум Е.Б., Литвинова О.М., Банников А.И. Полиморфизм популяции современных вирусов гриппа А и В человека. Вестник РАМН. 1994;9: С.36-41. 
+
+ 27.       McCullers J.A., Saito T., Iverson A.R. Multiple genotypes of influenza B virus circulated between 1979 and 2003. J Virol 2004;78: Р.12817-12828. 
+
+ 28.       Иванова В.Т., Бурцева Е.И., Слепушкин А.Н. Особенности вирусов гриппа, обусловивших эпидемический подъем заболеваемости в России в 2002-2003 гг. Возврат в циркуляцию вирусов гриппа, подобных В/Виктория/2/87. Вопросы вирусологии. 2004; 3: С.12. 
+
+ 29.       Guo Y.J. Isolation of influenza С virus from pigs and experimental infection of pigs with influenza С virus. Journal of General Virology. 1983; 64: P. 177-182. 
+
+ 30.       Yuanji G., Desselberger U. Genome analysis of influenza С viruses isolated in 1981/82 from pigs in China. Journal of General Virology. 1984; 65: P. 1857-1872. 
+
+ 31.       Киселёв О.И., Исаков В.А., Шаронов Б.П., Сухинин В.П. Патогенез тяжёлых форм гриппа. Вестник Российской академии медицинских наук. 1994; 9: С. 32-36. 
+
+ 32.       Fukuyama S., Kawaoka Y. The pathogenesis of influenza virus infections: the contributions of virus and host factors. Current Opinion in Immunology. 2011; 23(4): P. 481-486. 
+
+ 33.       Цинзерлинг В.А., Воробьев С.Л., Зарубаев В.В. и др. Патогенетические аспекты гриппа в период эпидемии, вызванной вирусом A/H1N1v в 2009- 2010 гг. по аутопсии. Архив патологии. 2011; 73(6): С. 21-25. 
+
+ 34.       Щелканов М.Ю. Патогенез гриппа: механизмы модуляции белками возбудителя. Журнал инфектологии. 2015; 7(2): С. 31-45. 
+
+ 35.       Марков Х.М. Молекулярные механизмы дисфункции сосудистого эндотелия. Кардиология.  2005;12: С.62-72. 
+
+ 36.       Endemann D.H., Schiffrin E.L. Endothelial dysfunction. J. Am. Soc. Nephrol. 2004; 15: P. 1983-1992. 
+
+ 37.       Verma S., Anderson T.J. Fundamentals of endothelial dysfunction for the clinical cardiologist.  Circulation.  2002; 105: P. 546-549. 
+
+ 38.       Кузник Б.И. Клеточные и молекулярные механизмы регуляции системы гемостаза в норме и патологии. –  Чита: Экспресс-изд-во, 2010. – 832 с. 
+
+ 39.       Азаренок А.А. Роль вируса гриппа и его поверхностных белков в развитии дисфункции эндотелия: автореф. дис. ... канд. биол. наук: 03.02.02. – СПб., 2014. – 29 с. 
+
+ 40.       Горбунов В.В. Повреждение эндотелия у пациентов пневмонией во время пандемии гриппа A H1N1 и возможность его коррекции. Забайкальский медицинский вестник. 2011; 2: С. 104- 111. 
+
+ 41.       Ратникова Л.И., Картополова Е.В. Гемодинамические нарушения у пациентов гриппом и роль оксида азота в их развитии. Инфекционные болезни. 2012; 10 (4): С. 27-30. 
+
+ 42.       Эсауленко Е.В., Стуколкин К.О., Дунаева Н.В. и др. Редкие симптомы (диарея, менингизм, геморрагический синдром) у пациентов гриппом различных субтипов. Вестник Новгородского государственного университета им. Ярослава Мудрого. 2013; 71(1): С. 93-97. 
+
+ 43.       Лаврищева, В.В. Этиология летальных пневмоний в период развития пандемии, вызванной вирусом гриппа A (H1N1) pdm09 в России. Вопросы вирусологии.  2013; 58 (3): С. 17- 21. 
+
+ 44.       Львов Д.К., Бурцева Е.И., Прилипов А.Г. и др. Возможная связь летальной пневмонии с мутациями пандемического вируса гриппа A(H1N1)swl в рецепторсвязывающем сайте субъединицы НА1 гемагглютинина. Вопросы вирусологии. 2010; 4: С. 4–9. 
+
+ 45.       Чучалин А.Г. Патологическая анатомия лёгких при гриппе A (H1N1), по данным аутопсий. Пульмонология. 2010; 1: С. 5-11. 
+
+ 46.       Цинзерлинг В.А., Васильева М.В., Эсауленко Е.В. и др. Анализ летальных исходов при гриппе A/H1N1/PDM09 в эпидемический сезон 2015-2016гг. Инфекционные болезни. 2016; 14(4): С. 80-83. 
+
+ 47.       Mauad T. Lung pathology in fatal novel human influenza A(H INI) infection. American Journal of Respiratory and Critical Care Medicine. 2010; 181(1): P. 72-79. 
+
+ 48. Эсауленко Е.В., Го А.А., Сухорук А.А., Понятишина М.В., Позднякова М.В. Грипп: современные диагностические возможности и терапевтические подходы. Учебное пособие для студентов медицинских вузов. Сер. Библиотека педиатрического университета. Санкт-Петербург, 2015: 48с. 
+
+ 49.       Львов, Д.К. Обнаружение аминокислотных замен аспарагиновой кислоты на глицин и глутаминовую кислоту в рецептор-связывающем сайте гемагглютинина в штамме пандемического вируса гриппа H1N1 от пациентов с летальным исходом и со среднетяжелой формой заболевания. Вопросы вирусологии. 2010; 55 (3): С. 15-18. 
+
+ 50.       Киселёв О.И., Маринец И.Г., Соминина А.А. Грипп и другие респираторные инфекции: эпидемиология, профилактика, диагностика и терапия. СПб.: Боргес, 2003. – 244 с. 
+
+ 51.       Киселев О.И., Цыбалова Л.М., Покровский В. И. Грипп: эпидемиология, диагностика, лечение, профилактика. – М., 2012. – 496 с. 
+
+ 52.       Малышев Н.А., Эсауленко Е.В., Яковлев А.А. и др. Рекомендации по диагностике и лечению гриппа у взрослых пациентов (с моделями пациентов). Современная медицина; 2015: С. 2-56. 
+
+ 53. О состоянии санитарно-эпидемиологического благополучия населения в Российской Федерации в 2016 году: Государственный доклад. – М.: Федеральная служба по надзору в сфере защиты прав потребителей и благополучия человека, 2017.–220 с. 
+
+ 54. Отчет о 5-м совместном совещании Европейского регионального бюро ВОЗ/ECDC по эпиднадзору за гриппом. WHO, Будапешт, Венгрия, 14-16 июня 2016 г. 
+
+ 55.       Голохвастова H.O. Особенности современного течения гриппа A (H1N1 swl). Клиническая медицина. 2012; 6: С. 18-25. 
+
+ 56.       Колобухина Л.В. Эпидемический сезон 2013 – 2014 гг. Госпитальный мониторинг и противовирусная терапия. Терапевтический архив. 2014; 86 (10): С. 52-59. 
+
+ 57.       Карпова Л. С., Поповцева Н. М., Столярова Т. П. и др. Эпидемия гриппа в России в сезон 2014–15 гг.  Microbiology Independent Research Journal. 2015; 2 (1): С.19–26. 
+
+ 58. Карпова Л.С., Волик К.М., Столяров К.А. и др.  Влияние эпидемий гриппа на показатели смертности и «дополнительную» смертность от соматических и инфекционных заболеваний среди населения Санкт-Петербурга с 2009 по 2015 годы. Информационный бюллетень "Здоровье населения и среда обитания". 2016, №5:39-44. 
+
+ 59. Summary of WHO Technical Consultation: H1N1pdm Mortality Estimates, 25-26 October 2011. 
+
+ 60. Estimating Seasonal Influenza-Associated Deaths in the United States. URL: http://www.cdc.gov/ flu/about/disease/us_flu-related_deaths.htm 
+
+ 61. Карпова Л.С., Волик К.М, Столяров., К.А. и др. Дополнительная» смертность от отдельных нозологических форм соматических и инфекционных заболеваний среди детей и взрослых Санкт-Петербурга с 2009 по 2015 годы. Информационный бюллетень "Здоровье населения и среда обитания". 2016, №10:8-11. 
+
+ 62.       WHO Guidelines for Pharmacological Management of Pandemic Influenza A(H1N1) 2009 and other Influenza Viruses. WHO, 2010. 
+
+ 63.       Инфекционные болезни. Национальное руководство. Под ред. акад. РАМ Н.Д. Ющука, акад. РАЕН Ю.Я.Венгерова. М.: Издательство ГЭОТАР-Медиа, 2010. –1047 с. 
+
+ 64.       Lee N., Ison M. G. Diagnosis, management and outcomes of adults hospitalized with influenza. Antivir. Ther. 2012; 17: Р.143-157. 
+
+ 65.       Monto A.S., Gravenstein S., Elliott M., Colopy M., Schweinle J. Clinical signs and symptoms predicting influenza infection. Arch Intern Med. 2000; 160: Р.3243-3247. 
+
+ 66.       Сухорук А.А., Перадзе Х.Д., Хомченко И.В. Анализ эпидемиологических особенностей и клинической картины гриппа А/H1N1/California в Санкт-Петербурге у взрослых.  Педиатр. 2011; 2(2): С. 41-46. 
+
+ 67.       Яцышина С.Б., Шипулин Г.А. Совершенствование лабораторной диагностики гриппа и ОРЗ. Грипп и гриппоподобные инфекции (включая особо опасные формы гриппозной инфекции). Фундаментальные и прикладные аспекты изучения. 2008; 2: С. 43-48. 
+
+ 68.       Яцышина С.Б., Миненко А.Н., Прадед М.Н. и др. Диагностика гриппа: новый вариант H1N1 в России. Эпидемиология и инфекционные болезни. 2009; 6: С.56-62. 
+
+ 69.       Irving SA, Vandermause MF, Shay DK, Belongia EA.  Comparison of nasal and nasopharyngeal swabs for influenza detection in adults. Clin Med Res. 2012;10(4):215-218. 
+
+ 70.       Heikkinen T., Marttila J., Salmi A.A., Ruuskanen O. Nasal swab versus nasopharyngeal aspirate for isolation of respiratory viruses. J Clin Microbiol. 2002; 40: Р.4337-4339. 
+
+ 71.       Hernes S.S., Quarsten H., Hamre R., et al. A comparison of nasopharyngeal and oropharyngeal swabbing for the detection of influenza virus by real-time PCR. Eur J Clin Microbiol Infect Dis. 2013;32(3):381-385. 
+
+ 72.       Sung R.Y., Chan P.K., Choi K.C. et al. Comparative study of nasopharyngeal aspirate and nasal swab specimens for diagnosis of acute viral respiratory infection. J Clin Microbiol. 2008; 46: Р.3073-3076. 
+
+ 73.       Sonal G.,   Kriengkrai P.,   Prabda P. et al.  The acceptability and validity of self-collected nasal swabs for detection of influenza virus infection among older adults in Thailand. Influenza Other Respir Viruses. 2017; 11(5): 412–417. 
+
+ 74.       Akmatov MK, Gatzemeier A, Schughart K, Pessler F. Equivalence of self- and staff-collected nasal swabs for the detection of viral respiratory pathogens. PLoS One. 2012;7(11):e48508. 
+
+ 75. Лабораторная диагностика гриппа и других ОРВИ методом полимеразной цепной реакции. Клинические рекомендации, Москва, 2016:62 с. 
+
+ 76.       Яцышина С.Б., Миненко А.Н., Кушакова Т.Е. и др. Пандемичный грипп А/Н1N1(SW2009) в России: эпидемиология, диагностика, клиническая картина и лечение. Терапевтический архив. 2010; 11: Р.10-14 
+
+ 77.       Сухорук А.А. Использование молекулярно-биологического метода (ПЦР) в идентификации вируса гриппа А/H1N1/California у пациентов ОРВИ в период эпидемического подъёма заболеваемости в Санкт-Петербурге в 2009 году.  Вестник гематологии. 2010; 6 (1): С. 66-67. 
+
+ 78.       Лободанов С.А., Никонова А.А., Файзулоев Е.Б. и др. Оценка эффективности дифференциальной диагностики гриппа методом мультиплексной ПЦР с детекцией в режиме реального времени.  Вопросы вирусологии. 2012; 57(1): С. 42-45. 
+
+ 79.       Dare R.,  Zhu Y, Williams JV., et al. Detection of Influenza by Real Time RT-PCR is Not Affected by Delays in Specimen Processing of Respiratory Samples. J Med Virol. 2016; 88(11): 1891–1895. 
+
+ 80.       Гребенникова Т.В., Забережный А.Д., Алипер Т.И. Молекулярная диагностика гриппа.  Вестник Российской академии медицинских наук. 2011;5: С. 28-34. 
+
+ 81.       Никонова А. А., Успенская Е. С., Лободанов С. А. и др. Применение метода мультиплексной ПЦР с детекцией в режиме реального времени для дифференциальной диагностики респираторных вирусных инфекций. Журн. микробиол. 2009; 1:С. 67-70. 
+
+ 82.       Beck E.T., Jurgens L.A., Kehl S.C. et al. Development of a rapid automated influenza A, influenza B, and respiratory syncytial virus A/B multiplex real-time RT-PCR assay and its use during the 2009 H1N1 swine-origin influenza virus epidemic in Milwaukee, Wisconsin. J. Mol. Diagn.  2010;12 (1): P. 74-81. 
+
+ 83.       Bellau-Pujol S., Vabret A., Legrand L. et al. Development of three multiplex RT-PCR assays for the detection of 12 respiratory RNA viruses. J. Virol. Meth. 2005; 26 (1-2): P. 53-63. 
+
+ 84.       Antoniol S., Fidouh N., Ghazali A., et al. Diagnostic performances of the Xpert® Flu PCR test and the OSOM® immunochromatographic rapid test for influenza A and B virus among adult patients in the Emergency Department. J Clin Virol. 2018;99-100:5-9. 
+
+ 85.       Дробченко С.Н., Ривец Б., Сэмюэльс Ф. Новые экспресс-тесты для диагностики гриппа. Поликлиника. 2010; 4: С. 18. 
+
+ 86.       Мальчиков И.А., Аминев Р.М., Рубова С.Р. и др. Сравнительная эффективность методов, применяемых для диагностики гриппа на современном этапе. Дальневосточный журнал инфекционной патологии. 2010;17: С. 8-10. 
+
+ 87.       Hurt A.C. Performance of six influenza rapid tests in detecting human influenza in clinical specimens. J Clin Virol. 2007; 39: P. 132-135. 
+
+ 88.       Merckx J., Wali R., Schiller I., et al. Diagnostic Accuracy of Novel and Traditional Rapid Tests for Influenza Infection Compared With Reverse Transcriptase Polymerase Chain Reaction: A Systematic Review and Meta-analysis. Ann Intern Med. 2017;167(6):394-409. 
+
+ 89. Choi Y.J., Nam H.S., Park J.S. et al. Comparative analysis of the multiple test methods for the detection of pandemic influenza A/H1N1 2009 virus. J Microbiol Biotechnol. 2010; 20(10):1450–1456. 
+
+ 90. Choi WS, Noh JY, Huh JY et al. The clinical usefulness of the SD Bioline Influenza Antigen Test(R) for detecting the 2009 influenza A (H1N1) virus. Yonsei Med J. 2011; 52(4):683–685. 
+
+ 91. Tai CF, Lu CY, Shao PL et al. Rapid-test sensitivity for novel swine-origin pandemic influenza A. J Formos Med Assoc. 2012; 111(8):427-430. 
+
+ 92.       Riley S., Kwok K. O., Wu K. M. et al. Epidemiological characteristics of 2009 (H1N1) pandemic influenza baised on paired sera from a longitudinal community cohort study. PLoS Medicine. 2011; 8: Р.e1000442.  
+
+ 93.       Rahman M., Kieke B.A., Vandermause M.F., Mitchell P.D., Greenlee R.T., Belongia E.A. Performance of Directigen flu A+B enzyme immunoassay and direct fluorescent assay for detection of influenza infection during the 2004–2005 season. Diagn Microbiol Infect Dis. 2007; 58: Р.413-418. 
+
+ 94.       Чучалин А.Г., Авдеев С.Н., Черняев А.Л., Осипова Г.Л., Самсонова М.В. Федеральные клинические рекомендации Российского респираторного общества по диагностике и лечению тяжелых форм гриппа.  Пульмонология. 2014;5: С. 11-19. 
+
+ 95.       Рахманова А.Г., Полушин Ю.С., Яковлев А.А. и др. Методические рекомендации по лечению пациентов тяжелой формой гриппа H1N1 (опыт работы СПб ГУЗ Клинической инфекционной больницы им. С.П. Боткина). СПб, 2009. – 45с. 
+
+ 96. Серебрякова О.М., Романова Е.Н., Говорин А.В. и др. Особенности клинико-рентгенологических проявлений пневмонии у пациентов гриппом А(Н1N1). Клиническая медицина. 2012; 6: С.70-72. 
+
+ 97. Лопатин А.С., Свистушкин В.М. Острый риносинусит: этиология, патогенез, диагностика и принципы лечения. Клинические рекомендации. М.: Российское общество ринологов. -2009-26с. 
+
+ 98. Oстрый риносинусит. Клинические рекомендации. М-Ростов-на-Дону: Общероссийская общественная организация "Ассоциация врачей общей практики (семейных врачей) Российской Федерации".- 2014-27с. 
+
+ 99. EAACI Position Paper on Rhinosinusitis and Nasal Polyps Executive Summary Allergy 2005, 60;5:583-601. 
+
+ 100. Клинические рекомендации "Грипп у беременных" http://www.influenza.spb.ru/files/publications/rii-influenza-pregnancy-clinical-guidelines-2015.pdf 
+
+ 101.URL:http://www.who.int/csr/disease/swineflu/guidance/surveillance/WHO_case_definition_swine_flu_2009_04_29.pdf (Annex 3) 
+
+ 102. ВОЗ. Информационный бюллетень. Грипп. Ноябрь 2016 г. URL: http://www.who.int /mediacentre/factsheets/fs211/ru/ 
+
+ 103. Диагностика и интенсивная терапия гриппа A(H1N1) pdm 2009 осложнённого течения. Клинические рекомендации, подготовленные общероссийской общественной организацией (Федерация анестезиологов и реаниматологов) 2017г. 
+
+ 104. Protocol for the Use of Oseltamivir (and Zanamivir) for the Post-Exposure Prophylaxis and Treatment of Seasonal Influenza (A or B) for ‘At-Risk’ Inpatients ( Version 5 – October 2014), NICE 
+
+ 105. Клинические методы ведения пациентов, инфицированных пандемическим вирусом гриппа А(H1N1)2009: переработанное руководство, ВОЗ 2009:8с.  
+
+ 106. Li TC, Chan MC, Lee N Clinical Implications of Antiviral Resistance in Influenza Viruses 2015; 7 (9): 4929–4944.  
+
+ 107. Recommended composition of influenza virus vaccines for use in the 2016-2017 northern hemisphere influenza season WHO February 2016:7p. 
+
+ 108. Sominina A., Burtseva E., Eropkin M., et al. Influenza surveillance in Russia based on epidemiological and laboratory data for the period from 2005 to 2012. American Journal of Infectious Diseases 2013; 9 (3): 77-93. 
+
+ 109. Львов Д.К., Чучалин А.Г., Шестакова И.В. и др. Методические рекомендации «Диагностика и лечение гриппа у взрослых пациентов в эпидемический сезон 2016-2017гг.» http://iia-rf.ru/upload/iblock/1f2/1f2bd1205d716438f32c1ab9f11e9e1c.PDF 
+
+ 110.     Stiver G. The treatment of influenza with antiviral drugs. Canadian Medical Association Journal. 2003; 1689(1): P. 49-57. 
+
+ 111.     De Clercq E. Antiviral agents active against influenza A viruses. Nat. Rev. Drug. Disc. 2006; 5: Р.1015-1021. 
+
+ 112.     Kawai N. A comparison of the effectiveness of oseltamivir for the treatment of influenza A and influenza B: a Japanese multicenter study of the 2003–2004 and 2004–2005 influenza seasons. Clin. Infect. Dis.2006; 43 (4): P. 445-446. 
+
+ 113.     Kaiser L. Impact  of  oseltamivir  treatment  on  influenza-related lower  respiratory  tract  complications  and  hospitalizations. Arch. Intern. Med. 2003; 163: P. 1167-1172. 
+
+ 114.     Dixit R., Khandaker G., Ilgoutz S. et al. Emergence of oseltamivir resistance: control and management of influenza before, during and after the pandemic. Infect Disord Drug Targets. 2013; 13 (1): Р.34-45. 
+
+ 115.     Савенкова М.С. Новый отечественный препарат Номидес (осельтамивир) для лечения гриппа у детей и взрослых. Эффективная фармакотерапия. 2016;40:4-8. 
+
+ 116.     Oxford J.S. Targeting influenza virus neuraminidase a new strategy for antiviral therapy. Drug Discovery Today. 1998; 3: Р.44856. 
+
+ 117.     Nicholson K.G., Aoki F.Y., Osterhaus A.D.M.E. et al. Efficacy and safety of oseltamivir in treatment of acute influenza: a randomised controlled trial. Lancet. 2000;355: Р.1845-1850. 
+
+ 118.     Treanor J.J., Hayden F.G., Vrooman P.S. et al. Efficacy and safety of the oral neuraminidase inhibitor oseltamivir in treating acute influenza. JAMA 2000; 283: Р.1016-1024. 
+
+ 119.     Bardsley-Elliot A., Noble S. Oseltamivir. Drugs. 1999; 58: Р.851-860. 
+
+ 120.     Winquist A.G., Fukuda K., Bringes C.B. et al. Neuraminidase inhibitors for treatment of influenza A and B infections. MMWR Recomm Rep. 1999; 48(RR14): Р.1-9. 
+
+ 121.     Leneva I.A., Roberts N., Govorkova E.A. et al. The neuraminidase inhibitor GS4104 (oseltamivir phosphate) is efficacious against A/Hong Kong/156/97 (H5N1) and A/Hong Kong/1074/99 (H9N2) influenza viruses. Antiviral. Research 2000; 48: Р.101-115. 
+
+ 122.     Деева Э.Г., Мельникова Т.И. Антивирусные препараты для профилактики и лечения гриппа. Эпидемиология и вакцинопрофилактика. 2009; 4 (47): С. 38-43. 
+
+ 123.     Leneva I.A., Burtseva E.I., Yatsyshina S.B. et al.  Virus susceptibility and clinical effectiveness of anti-influenza drugs during the 2010-2011 influenza season in Russia. Int J Infect Dis. 2016;43: P.77-84. 
+
+ 124.     Heneghan CJ, Onakpoya I, Thompson M, Spencer EA, Jones M, Jefferson T. Zanamivir for influenza in adults and children: systematic review of clinical study reports and summary of regulatory comments. BMJ. 2014;9;348:g2547. 
+
+ 125.     Осидак Л.В., Зарубаев В.В., Афанасьева О.И. и др. Осельтамивир – средство противовирусной терапии гриппа A(H1N1 )PDM09 у детей и взрослых. Детские инфекции. 2016;15(3): С. 19-24. 
+
+ 126.     Баранова И.П., Свистунова Н.В. Сравнительное исследование эффективности антивирусных препаратов в комплексном лечении гриппа. Инфекционные болезни. 2014;12(2): С. 46-53. 
+
+ 127.     Васильев Ю. Ингибиторы нейраминидазы для специфической профилактики и терапии гриппозной инфекции. Врач. 2014; 2: С.17-19. 
+
+ 128.     Cass L.M.R., Brown J., Pickford M. et al. Pharmacoscintigraphic evaluation of lung deposition of inhaled zanamivir in healthy volunteers. Clin Pharmacokinet 1999; 36(suppl 1): Р.21-31. 
+
+ 129.     The MIST (Management of Influenza in the Southern Hemisphere Trialists) Study Group. Randomised trial of efficacy and safety of inhaled zanamivir in treatment of influenza A and B virus infections. Lancet 1998; 352: Р.1877-1881. 
+
+ 130.     Matsumoto K., Ogawa N., Nerome K. et al. Safety and efficacy of the neu-raminidase inhibitor zanamivir in treating influenza virus infection in adults: results from Japan. Antiviral Ther. 1999;4: Р.61-68. 
+
+ 131.     Murphy K.R., Pauksens K., Stein W.J. et al. Efficacy and safety of inhaled zanamivir for the treatment of influenza in patients with asthma or chronic obstructive pulmonary disease: A double-blind, randomised, pPlacebo-controlled, multicentre study. Clin. Drug. Invest. 2000; 20(5): Р.337-349. 
+
+ 132.     Daniel M.J., Barnett J.M., Pearson B.A. The low potential for drug interactions with zanamivir. Clin Pharmacokinet. 1999; 36(Suppl 1): Р.41-50. 
+
+ 133.     Kadam R.U., Wilson I.A. Structural basis of influenza virus fusion inhibition by the antiviral drug Arbidol. Proc Natl Acad Sci U S A. 2017;114(2):P.206-214. 
+
+ 134.     Bulgakova V.A., Poromov A.A., Grekova A.I.. et al. Pharmacoepidemiological study of the course of influenza and other acute respiratory viral infections in risk groups. Ter Arkh. 2017;89(1): P62-72. 
+
+ 135.     Leneva IA, Burtseva EI, Yatsyshina SB, et al. Virus susceptibility and clinical effectiveness of anti-influenza drugs during the 2010-2011 influenza season in Russia. Int J Infect Dis. 2016;43:77-84.. 
+
+ 136.     Shi L., Xiong H., He J. et al. Antiviral activity of arbidol against influenza A virus, respiratory syncytial virus, rhinovirus, coxsackie virus and adenovirus in vitro and in vivo. Arch. Virol. 2007; 152: Р.1447-1455. 
+
+ 137.     Kiselev O.I., Maleev V.V., Deeva ?.G. et al. Clinical efficacy of arbidol (umifenovir) in the therapy of influenza in adults: preliminary results of the multicenter double-blind randomized placebo-controlled study ARBITR. Ter Arkh. 2015;87(1):P.88-96. 
+
+ 138.     Kramarev S.A., Moshchich A.P. The treatment of influenza and acute respiratory viral infections. Lik Sprava. 2013;2: P.99-106. 
+
+ 139.     Liu Q., Xiong H.R., Lu L., Liu Y.Y., Luo F., Hou W., Yang Z.Q. Antiviral and anti-inflammatory activity of arbidol hydrochloride in influenza A (H1N1) virus infection. Acta Pharmacol Sin. 2013; 34(8): Р.1075-1083. 
+
+ 140.     Kadam R.U., Wilson I.A. Structural basis of influenza virus fusion inhibition by the antiviral drug Arbidol. Proc Natl Acad Sci U S A. 2017;114(2):206-214. 
+
+ 141.     Ленева И.А., Гуськова Т.А. Арбидол – эффективный препарат для лечения и профилактики гриппа и ОРВИ: обзор результатов клинических исследований.РМЖ. 2008; 16 (29): С.1972-1976. 
+
+ 142.     Якимова С.С. Стратегия противовирусной терапии при гриппе как лечение и профилактика тяжелых осложнений: обзор результатов клинических исследований препарата Арбидол. Consilium Medicum. 2010;12 (4): С.21-24. 
+
+ 143. Ситников И. Г., Еганян Г. А., Гроппа Л. Г., и др. Лечение ОРВИ и гриппа в рутинной клинической практике: результаты промежуточного анализа неинтервенционного, открытого, проспективного, наблюдательного исследования. Лечащий врач, 2015, № 9. С. 95-99. 
+
+ 144. Миронов И.Л., Ратникова Л.И. Триазавирин: изучение клинической эффективности при гриппозной инфекции. Поликлиника. 2015. № 5-3. С. 54-55. 
+
+ 145.  Karpenko I., Deev S., Kiselev O. et al. Antiviral properties, metabolism, and pharmacokinetics of a novel Azolo 1,2,4-Triazine derived inhibitor of influenza A and B virus replication // Antimicrob. Agents Chemother. — 2010. — Vol. 54. — № 5. — P. 2017–2022; 
+
+ 146. Логинова С.Я., Борисевич С.В., Максимов В.А. и др. Изучение противовирусной активности триазавирина в отношении возбудителя гриппа А (H5N1). Антибиотики и химиотерапия. 2007. Т. 52. № 11-12. С. 18-20; 
+
+ 147. Логинова С.Я., Борисевич С.В., Максимов В.А. и др. Лечебная эффективность нового отечественного химиопрепарата Триазавирин в отношении возбудителя  возбудителя гриппа А (H5N1). Антибиотики и химиотерапия. 2011. Т. 56. № 1-2. С. 10-13; 
+
+ 148. Сологуб Т.В., Токин И.И., Мидикари А.С., Цветков В.В. Сравнительная эффективность и безопасность применения противовирусных препаратов в терапии больных гриппом. Инфекционные болезни. 2017. Т. 15. № 3. С. 25-32. 149. Деева Э.Г., Киселев О.И., Мельникова Т.И. и др. Новый противовирусный препарат «Триазавирин». Результаты I фазы клинического исследования. Эпидемиология и инфекционные болезни, №5, 2013.С. 20-26; 
+
+ 150. Киселев О.И., Деева Э.Г., Мельникова Т.И. и др. Новый противовирусный препарат Триазавирин. Результаты II фазы клинического исследования. Вопросы вирусологии. – 2012. – № 6. – С. 9-12 
+
+ 151.     Колобухина Л.В., Малышев Н.А., Меркулова Л.Н. и др. Изучение эффективности и безопасности нового противовирусного препарата Ингавирин при лечении пациентов гриппом. Русский Медицинский Журнал. 2008; 22: С. 23-29. 
+
+ 152.     Шишкина Л.Н., Небольсин В.Е., Кабанов А.С. и др. Эффективность Ингавирина in vitro и in vivo в отношении штаммов пандемического вируса гриппа A(H1N1/09)v. Журнал микробиологии, эпидемиологии и иммунобиологии. 2011; 2: С.93-96. 
+
+ 153.     Логинова С.Я., Борисевич С.В., Максимов В.А. и др.. Изучение лечебной эффективности нового отечественного препарата Ингавирин в отношении возбудителя гриппа A (H3N2). Антибиотики и химиотерапия. 2008; 53: С.7-8. 
+
+ 154.     Шишкина Л.Н., Небольсин В.Е., Скарнович М.О. и др. Изучение эффективности Ингавирина in vivo в отношении штаммов пандемического вируса гриппа A(H1N1/09)v. Антибиотики и химиотерапия. 2010; 55: С. 45-47. 
+
+ 155.     Lvov DK, Kolobukhina LV, Burtseva EI, et al. The 2015-2016 epidemic season in Russia and the world: Circulation of influenza viruses, trends in incidence, clinical aspects, and treatment algorithm Ter Arkh. 2016;88(11):112-120. 
+
+ 156.     Kolobukhina LV, Merkulova LN, Shchelkanov Miu, et al. Pandemic influenza in Russia: specific features of clinical course and the absence of early etiotropic therapy as a risk factor of severe forms of the disease. Ter Arkh. 2011;83(9):48-53.. 
+
+ 157.     Kolobukhina LV, Shchelkanov MIu, Merkulova LN et al. Etiotropic therapy of influenza: lessons from the last pandemic. Vestn Ross Akad Med Nauk. 2011;(5):35-40. 
+
+ 158.     Zarubaev V.V., Garshinina A.V., Kalinina N.A. et al. Activity of Ingavirin (6-[2-(1H-Imidazol-4-yl)ethylamino]-5-oxo-hexanoic Acid) Against Human Respiratory Viruses in in vivo Experiments. Pharmaceuticals. 2011; 4(12): Р.1518-1534. 
+
+ 159.     Зарубаев В.В., Беляевская С.В., Сироткин А.К. и др. Влияние Ингавирина на ультраструктуру и инфекционность вируса гриппа in vitro и in vivo. Вопросы вирусологии. 2011;5: С.21-25. 
+
+ 160. Ершов Ф. И., Киселев О. И. Интерфероны и их индукторы (от молекул до лекарств). — М.: Гэотар—Медиа, 2005. — 356 с.; 
+
+ 161. Малеев В. В., Киселев О. И., Сологуб Т. В., и др. Использование препаратов «Ингарон» и «Альфарона» в лечении и профилактике гриппа, в том числе птичьего происхождения. Врач. Новое в медицине.- 2006.-С.49-53; 
+
+ 162. Сологуб Т.В., Голобоков Г.С., Цветков В.В., Токин И.И. Интерферон гамма в терапии гриппа и других респираторные вирусных инфекций. Медицинский совет. 2015. № 7. С. 54-58; 
+
+ 163. Колобухина Л.В., Меркулова Л.Н., Малышев Н.А. и др. Применение местной интерферонотерапии в комплексном лечении гриппа, осложнённого ангиной. В сб.: Ершов Ф.И., Наровлянский А.Н., ред. Интерферон-2011. М., 2012. С. 174-178. 
+
+ 164. Сологуб Т.В., Эсауленко Е.В., Деева Э.Г., Йолла И. Гамма-инферферон: обоснование и перспективы применения в инфекционной практике. Медлайн-экспресс. 2006. № 2-3. С. 21-23. 
+
+ 165. Sologub TV, Tsvetkov VV. Kagocel in the therapy of influenza and acute respiratory viral infections: Data analysis and systematization from the results of preclinical and clinical trials. Ter Arkh. 2017;89(8):113-119.  
+
+ 166. Ershov F.I., Boev B.V

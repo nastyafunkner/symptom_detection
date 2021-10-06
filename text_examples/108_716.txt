@@ -1,0 +1,114 @@
+<!--StartFragment-->
+ 
+	 Врач-невролог. 
+	 Врач-психиатр. 
+	 Врач-генетик. 
+	 Студенты, ординаторы, аспиранты. 
+	 Преподаватели, научные сотрудники. 
+ 
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:100%">
+	 Таблица П1 – Уровни достоверности доказательств 
+	 
+		 
+			<td style="text-align:center"><!--StartFragment-->Уровень <!--EndFragment--> 
+			<td style="text-align:center"><!--StartFragment-->Источник доказательств<!--EndFragment--> 
+		 
+		 
+			<td style="text-align:center"><!--StartFragment-->I (1)<!--EndFragment--> 
+			 <!--StartFragment-->
+			<p style="text-align:center">Проспективные рандомизированные контролируемые исследования 
+
+			<p style="text-align:center">Достаточное количество исследований с достаточной мощностью, с участием большого количества пациентов и получением большого количества данных 
+
+			<p style="text-align:center">Крупные мета-анализы 
+
+			<p style="text-align:center">Как минимум одно хорошо организованное рандомизированное контролируемое исследование 
+
+			<p style="text-align:center">Репрезентативная выборка пациентов 
+
+			<p style="text-align:center"><!--EndFragment--> 
+			 
+		 
+		 
+			<td style="text-align:center"><!--StartFragment-->II (2)<!--EndFragment--> 
+			 <!--StartFragment-->
+			<p style="text-align:center">Проспективные с рандомизацией или без исследования с ограниченным количеством данных 
+
+			<p style="text-align:center">Несколько исследований с небольшим количеством пациентов 
+
+			<p style="text-align:center">Хорошо организованное проспективное исследование когорты 
+
+			<p style="text-align:center">Мета-анализы ограничены, но проведены на хорошем уровне 
+
+			<p style="text-align:center">Результаты не презентативны в отношении целевой популяции 
+
+			<p style="text-align:center">Хорошо организованные исследования «случай-контроль» 
+
+			<p style="text-align:center"><!--EndFragment--> 
+			 
+		 
+		 
+			<td style="text-align:center"><!--StartFragment-->III (3)<!--EndFragment--> 
+			 <!--StartFragment-->
+			<p style="text-align:center">Нерандомизированные контролируемые исследования 
+
+			<p style="text-align:center">Исследования с недостаточным контролем 
+
+			<p style="text-align:center">Рандомизированные клинические исследования с как минимум 1 значительной или как минимум 3 незначительными методологическими ошибками 
+
+			<p style="text-align:center">Ретроспективные или наблюдательные исследования 
+
+			<p style="text-align:center">Серия клинических наблюдений 
+
+			<p style="text-align:center">Противоречивые данные, не позволяющие сформировать окончательную рекомендацию 
+
+			<p style="text-align:center"><!--EndFragment--> 
+			 
+		 
+		 
+			<td style="text-align:center"><!--StartFragment-->IV (4)<!--EndFragment--> 
+			<td style="text-align:center"><!--StartFragment-->Мнение эксперта/данные из отчета экспертной комиссии, экспериментально подтвержденные и теоретически обоснованные<!--EndFragment--> 
+		 
+	 
+ 
+<!--EndFragment--> 
+
+<table border="1" cellpadding="1" cellspacing="1" style="width:100%">
+	 Таблица П2 – Уровни убедительности рекомендаций 
+	 
+		 
+			<td style="text-align: center;"><!--StartFragment-->Уровень <!--EndFragment--> 
+			<td style="text-align: center;"><!--StartFragment-->Описание<!--EndFragment--> 
+			<td style="text-align: center;"><!--StartFragment-->Расшифровка<!--EndFragment--> 
+		 
+		 
+			<td style="text-align: center;"><!--StartFragment-->A<!--EndFragment--> 
+			<td style="text-align: center;"><!--StartFragment-->Рекомендация основана на высоком уровне доказательности (как минимум 1 убедительная публикация I уровня доказательности, показывающая значительное превосходство пользы над риском)<!--EndFragment--> 
+			<td style="text-align: center;"><!--StartFragment-->Метод/терапия первой линии; либо в сочетании со стандартной методикой/терапией<!--EndFragment--> 
+		 
+		 
+			<td style="text-align: center;"><!--StartFragment-->B<!--EndFragment--> 
+			<td style="text-align: center;"><!--StartFragment-->Рекомендация основана на среднем уровне доказательности (как минимум 1 убедительная публикация II уровня доказательности, показывающая значительное превосходство пользы над риском)<!--EndFragment--> 
+			<td style="text-align: center;"><!--StartFragment-->Метод/терапия второй линии; либо при отказе, противопоказании, или неэффективности стандартной методики/терапии. Рекомендуется мониторирование побочных явлений<!--EndFragment--> 
+		 
+		 
+			<td style="text-align: center;"><!--StartFragment-->C<!--EndFragment--> 
+			<td style="text-align: center;"><!--StartFragment-->Рекомендация основана на слабом уровне доказательности (но как минимум 1 убедительная публикация III уровня доказательности, показывающая значительное превосходство пользы над риском) или нет убедительных данных ни о пользе, ни о риске)<!--EndFragment--> 
+			 <!--StartFragment-->
+			<p style="text-align: center;">Нет возражений против данного метода/терапии или нет возражений против продолжения данного метода/терапии 
+
+			<p style="text-align: center;">Рекомендовано при отказе, противопоказании, или неэффективности стандартной методики/терапии, при условии отсутствия побочных эффектов 
+
+			<p style="text-align: center;"><!--EndFragment--> 
+			 
+		 
+		 
+			<td style="text-align: center;"><!--StartFragment-->D<!--EndFragment--> 
+			<td style="text-align: center;"><!--StartFragment-->Отсутствие убедительных публикаций I, II или III уровня доказательности, показывающих значительное превосходство пользы над риском, либо убедительные публикации I, II или III уровня доказательности, показывающие значительное превосходство риска над пользой<!--EndFragment--> 
+			<td style="text-align: center;"><!--StartFragment-->Не рекомендовано<!--EndFragment--> 
+		 
+	 
+ 
+
+ <!--StartFragment-->Порядок обновления клинических рекомендаций: пересмотр 1 раз в 3 года.<!--EndFragment--> 

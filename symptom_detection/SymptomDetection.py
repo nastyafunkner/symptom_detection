@@ -1,22 +1,23 @@
 import conllu
 import pymorphy2
-import nltk
+import re
+# import nltk
+# import dash_html_components as html
 
-import dash_html_components as html
-
+from dash import html
 from razdel import sentenize
 from pyaspeller import YandexSpeller
 from deeppavlov import build_model, configs
 from symptom_detection.conllu_tree_utils import get_sentence, get_subtree
 from nltk.corpus import stopwords
 
-nltk.download("stopwords")
+# nltk.download("stopwords")
 russian_stopwords = stopwords.words("russian")
 russian_stopwords.extend(['это', 'нею'])
 
 normalizer = pymorphy2.MorphAnalyzer()
 speller = YandexSpeller()
-syntaxer = build_model(configs.syntax.syntax_ru_syntagrus_bert, download=True)
+syntaxer = build_model(configs.syntax.syntax_ru_syntagrus_bert, download=False)
 SYMPTOM_PATH = r'data\symptom_glossary.txt'
 
 with open(SYMPTOM_PATH) as f:
@@ -119,7 +120,7 @@ def remove_repeats(detections):
     these_dets = sorted(detections, key=lambda x: len(x[1]))
     index_to_remove = []
     for i, det in enumerate(these_dets):
-        for j, bigger_det in enumerate(these_dets[i+1:], i+1):
+        for j, bigger_det in enumerate(these_dets[i + 1:], i + 1):
             if i in index_to_remove:
                 break
             if det[1] in bigger_det[1]:
@@ -145,14 +146,22 @@ def remove_long_details(detections, signs_to_remove=(',')):
 
 
 def sort_detections(dets, sent):
+    dets_filter_none = [det for det in dets if sent.find(det[1]) >= 0]
     return sorted(
-        dets,
+        dets_filter_none,
         key=lambda x: sent.find(x[1])
     )
 
 
 def split_sent_by_dets(dets, sent):
-    dets = sort_detections(dets, sent)
+    aligned_dets = []
+    for det in dets:
+        if det[1] not in sent:
+            aligned_dets.extend(align_det_for_sent(det, sent))
+        else:
+            aligned_dets.append(det)
+    dets = sort_detections(aligned_dets, sent)
+    # print([sent.find(x[1]) for x in dets])
     parts = []
     for _, det, neg_status in dets:
         sent_part_before = sent.split(det)[0]
@@ -163,6 +172,44 @@ def split_sent_by_dets(dets, sent):
     if len(sent) > 0:
         parts.append((None, sent, None))
     return parts
+
+
+def align_det_for_sent(detection, sent):
+    main_word, phrase, neg_status = detection
+    words = phrase.split(' ')
+    start_loc = 0
+    word_locs = []
+    for word in words:
+        start_word_loc = start_loc + sent[start_loc:].find(word)
+        finish_word_loc = start_word_loc + len(word)
+        word_locs.append((start_word_loc, finish_word_loc))
+        start_loc = finish_word_loc
+    #     print(word_locs)
+
+    prev_loc = word_locs[0]
+    total_locs = [[prev_loc[0], None]]
+    skip_locs = []
+    for this_loc in word_locs[1:]:
+        start, finish = this_loc
+        prev_start, prev_finish = prev_loc
+        if prev_finish + 1 != start and prev_finish != start:
+            total_locs[-1][-1] = prev_finish
+            total_locs.append([start, None])
+            skip_locs.append([prev_finish, start])
+        prev_loc = this_loc
+    total_locs[-1][-1] = finish
+    #     print(total_locs)
+    #     print(skip_locs)
+
+    #     for locs in total_locs:
+    #         print(sent[slice(*locs)])
+
+    new_detections = []
+    for locs in total_locs:
+        new_phrase = sent[slice(*locs)]
+        new_detections.append([main_word, new_phrase, neg_status])
+
+    return new_detections
 
 
 def tune_details(detection):
@@ -197,13 +244,27 @@ def tune_total_detections(detections):
     return tuned_detections
 
 
+def remove_html_tags(text):
+    tag_pattern = re.compile('<[^>]*>')
+    tag_replace = '. '
+    new_line_pattern = re.compile(' *\n+')
+    new_line_replace = tag_replace
+    multiple_stops_pattern = re.compile('(\. *)+')
+    multiple_stops_replace = '. '
+    text = re.sub(tag_pattern, tag_replace, text)
+    text = re.sub(new_line_pattern, new_line_replace, text)
+    text = re.sub(multiple_stops_pattern, multiple_stops_replace, text)
+    return text
+
+
 def detect_symptoms(text, return_text_mode='span'):
     """
     Detect and extract symptoms in a free-form text.
     return_mode: 'span' - return text with span for dash visualization
     'ansi' - return text with ANSI terminal pattern for jupyter visualization
     """
-    sentences = tokenize_for_sentences(text)
+    text_without_html = remove_html_tags(text)
+    sentences = tokenize_for_sentences(text_without_html)
     detected_results = []
     full_detections = []
     ansi_text = ''
@@ -226,7 +287,7 @@ def detect_symptoms(text, return_text_mode='span'):
 
         if return_text_mode == 'ansi':
             if len(clean_short_full_detection):
-                new_sent = sent
+                new_sent = fixed_sent
                 for _, detected, negation_status in clean_short_full_detection:
                     if negation_status:
                         new_sent = new_sent.replace(detected, f"\x1b[34m{detected}\x1b[0m")
@@ -234,12 +295,12 @@ def detect_symptoms(text, return_text_mode='span'):
                         new_sent = new_sent.replace(detected, f"\x1b[31m{detected}\x1b[0m")
                 ansi_text += new_sent
             else:
-                ansi_text += sent
+                ansi_text += fixed_sent
 
         if return_text_mode == 'span':
             if len(clean_short_full_detection):
                 new_span = []
-                det_parts = split_sent_by_dets(clean_short_full_detection, sent)
+                det_parts = split_sent_by_dets(clean_short_full_detection, fixed_sent)
                 for _, part, negation_status in det_parts:
                     if negation_status is None:
                         new_span.append(
@@ -256,7 +317,7 @@ def detect_symptoms(text, return_text_mode='span'):
                 span_obj.extend(new_span)
             else:
                 span_obj.append(
-                    html.Span(sent, style={'color': color_dict['black']})
+                    html.Span(fixed_sent, style={'color': color_dict['black']})
                 )
 
         detected_results.append(clean_short_detailed_detection)
@@ -266,6 +327,7 @@ def detect_symptoms(text, return_text_mode='span'):
         return tune_total_detections(detected_results), span_obj
     if return_text_mode == 'ansi':
         return tune_total_detections(detected_results), ansi_text
+
 
 # [[['боль', ['головная', 'в теменно-затылочной области'], False]],
 #  [['одышка', [], False]],
@@ -281,7 +343,7 @@ def detect_symptoms(text, return_text_mode='span'):
 
 def detections_to_li_html(detections, neg_status=False):
     html_elements = []
-    print(detections)
+    # print(detections)
     for sent_dets in detections:
         for det in sent_dets:
             symptom, details, this_neg_stat = det
@@ -300,3 +362,4 @@ if __name__ == '__main__':
     # TODO: починить проблему с запятыми
     # Кашель, чихание, ухудшение самочувствия не беспокоят. Головокружения в течение недели.
     pass
+

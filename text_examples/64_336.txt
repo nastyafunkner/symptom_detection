@@ -1,0 +1,86 @@
+<p style="text-align: center;">Критерии оценки качества медицинской помощи 
+
+<table align="center" border="1" cellpadding="1" cellspacing="1" style="width:500px">
+	 
+		 
+			<td style="text-align: center;">№ 
+			<td style="text-align: center;">Критерии качества 
+			<td style="text-align: center;">Уровень<br />
+			достоверности доказательств 
+			<td style="text-align: center;">Уровень<br />
+			убедительности рекомендаций 
+		 
+		 
+			<td style="text-align: center;">1 
+			<td style="text-align: center;">Выполнена магнитно резонансная- томография головного<br />
+			мозга и позвоночника (при диагностике) 
+			<td style="text-align: center;">А 
+			<td style="text-align: center;">1 
+		 
+		 
+			<td style="text-align: center;">2 
+			<td style="text-align: center;">Выполнена консультация врачом - нейрохирургом 
+			<td style="text-align: center;">С 
+			<td style="text-align: center;">2-3 
+		 
+		 
+			<td style="text-align: center;">3 
+			<td style="text-align: center;">Выполнено своевременное направление на оперативное<br />
+			вмешательство (в первые 2 года от начала клинических<br />
+			проявлений) 
+			<td style="text-align: center;">С 
+			<td style="text-align: center;">2-3 
+		 
+		 
+			<td style="text-align: center;">4 
+			<td style="text-align: center;">Выполнен дифференцированный подход к выбору<br />
+			хирургического вмешательства (обоснованность применения/<br />
+			неприменения дуропластики, шунтирования) 
+			<td style="text-align: center;">С 
+			<td style="text-align: center;">2-3 
+		 
+		 
+			<td style="text-align: center;">5 
+			<td style="text-align: center;">Выполнено консультирование членов семьи пациента для<br />
+			выявления субклинических форм наследственной патологии 
+			<td style="text-align: center;">С 
+			<td style="text-align: center;">3-4 
+		 
+		 
+			<td style="text-align: center;">6 
+			<td style="text-align: center;">Выполнено консультирование пациента по поводу<br />
+			необходимости ограничения выраженных статических<br />
+			нагрузок (бытовых и профессиональных), рациональной<br />
+			профориентации 
+			<td style="text-align: center;">С 
+			<td style="text-align: center;">3-4 
+		 
+		 
+			<td style="text-align: center;">7 
+			<td style="text-align: center;">Выполнена организация диспансерного (динамического)<br />
+			наблюдения невролога (не реже 1 раза в год с проведением<br />
+			коррекции плана обследования и плана лечения с учетом<br />
+			клинического диагноза, состояния пациента, особенностей<br />
+			течения заболевания, наличия сопутствующих заболеваний,<br />
+			осложнений заболевания и результатов проводимого лечения 
+			<td style="text-align: center;">С 
+			<td style="text-align: center;">3-4 
+		 
+		 
+			<td style="text-align: center;">8 
+			<td style="text-align: center;">Выполнена магнитно-резонансная томография в динамике<br />
+			при диспансерном наблюдении не реже 1 раза в 2-3 года 
+			<td style="text-align: center;">С 
+			<td style="text-align: center;">3-4 
+		 
+		 
+			<td style="text-align: center;">9 
+			<td style="text-align: center;">Выполнена качественная рациональная анальгезия в случаях<br />
+			болевых форм патологии 
+			<td style="text-align: center;">С 
+			<td style="text-align: center;">3-4 
+		 
+	 
+ 
+
+<p style="text-align: center;">  

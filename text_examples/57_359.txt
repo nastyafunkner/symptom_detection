@@ -1,0 +1,189 @@
+ 1.2 Этиология и патогенез 
+
+ Этиология миокардитов самая разнообразная. Он может быть вирусным (аденовирус (А1,2,3,5), пикорнавирус (Коксаки вирус А/В, эховирус), цитомегаловирус, эритровирусы (парвовирус В19 (PVB19)), вирус гепатита С, вирус гриппа (1,2), вирус иммунодефицита человека, вирус герпеса (вирус Эпштейн - Барр, герпес вирусы 1,2,6 типа), смешанные инфекции), бактериальным, грибковым, протозойным, паразитарным, токсическим, аллергическим, аутоиммунным [2,3]. Вирусы являются наиболее частым этиологическим фактором, вызывающим миокардит [4]. В таблице 2 представлены основные этиологические факторы миокардитов [5]. 
+
+ Таблица 2 - Основные этиологические факторы миокардитов (Рабочая группа по миокардитам и перикардитам Европейского общества кардиологов, 2013 г.) 
+
+   
+
+ 
+<table border="1" cellpadding="0" cellspacing="0">
+	 
+		 
+			 
+			  Этиологический фактор  
+			 
+			 
+			  Характеристика   
+			 
+		 
+		 
+			<td colspan="2">
+			 1. Инфекционный 
+			 
+		 
+		 
+			 
+			 Бактериальные 
+			 
+			 
+			 Staphylococcus spp., Streptococcus spp, в т.ч., Streptococcus pneumoniae, Neisseria meningitidis, Neisseria gonorrhoeae, Salmonella spp., Corynebacterium diphtheriae, Haemophilus influenzae, Mycobacterium tuberculosis,    Mycoplasma pneumoniae, Brucella spp. 
+			 
+		 
+		 
+			 
+			 Спирохеты 
+			 
+			 
+			 Borrelia         burgdorferi     ( болезнь       Лайма), 
+
+			 Leptospira icterohemorrhagica (болезнь Вейля) 
+			 
+		 
+		 
+			 
+			 Грибы 
+			 
+			 
+			 Aspergillus spp, Actinomyces spp, Blastomyces spp., Candida spp., Coccidioides spp., Cryptococcus spp., Histoplasma spp., Mucor spp., Nocardia spp., Sporothrix spp. 
+			 
+		 
+		 
+			 
+			 Протозоозы 
+			 
+			 
+			 Trypanosoma        cruzi,      Toxoplasma      gondii, Entamoeba, Leishmania 
+			 
+		 
+		 
+			 
+			 Паразитарные 
+			 
+			 
+			 Trichinella spiralis, Echinococcus granulosus, Taenia solium           
+			 
+		 
+		 
+			 
+			   
+
+			 Риккетсии 
+			 
+			 
+			 Coxiella      burnetii   ( Q-лихорадка),    Rickettsia rickettsii (пятнистая лихорадка Скалистых гор), Rickettsia tsutsugamuschi 
+			 
+		 
+		 
+			 
+			 Вирусы 
+			 
+			 
+			 РНК вирусы: коксаки А и В, Вирус ECHO, полиовирус, вирусы гриппа А и В, РС- вирус, эпидемического паротита, кори, краснухи, гепатита С, вирус Денге, вирус желтой лихорадки, вирус Чикунгунья, вирус Хунин, вирус лихорадки Ласса, бешенства, вирус иммунодефицита человека-1 (ВИЧ-1) 
+
+			 ДНК-вирусы: аденовирусы, парвовирус -В19, цитомегаловирус, герпес 6 типа, Эпштейн-Барр вирус, вирус ветряной оспы, вирус простого герпеса (ВПГ), вирус натуральной оспы, вирус коровьей оспы 
+			 
+		 
+		 
+			<td colspan="2">
+			 2. Иммуноопосредованный 
+			 
+		 
+		 
+			 
+			 Аллергены 
+			 
+			 
+			 Столбнячный анатоксин, сывороточная болезнь, вакцины; лекарственные препараты: пенициллин, цефаклор, колхицин, фуросемид, изониазид, лидокаин, тетрациклин, сульфаниламиды, фенитоин, фенилбутазон, метилдопа, тиазидные диуретики, амитриптилин 
+			 
+		 
+		 
+			 
+			 Аллоантигены 
+			 
+			 
+			 Отторжение трансплантата сердца 
+			 
+		 
+		 
+			 
+			 Аутоантигены 
+			 
+			 
+			 Неинфекционный лимфоцитарный миокардит. Неинфекционный гигантоклеточный миокардит. Ассоциированные с аутоиммунными или иммуноопосредованными заболеваниями (системная красная волчанка, ревматоидный артрит, синдром Черджа-Стросса , Болезнь Такаясу, болезнь Кавасаки, болезнь Крона, склеродермия , полимиозит, миастения, инсулинзависимый диабет, тиреотоксикоз, саркоидоз, гранулематоз Вегенера, ревматизм (ревматическая лихорадка) 
+			 
+		 
+		 
+			<td colspan="2">
+			 3. Токсический 
+			 
+		 
+		 
+			 
+			 Лекарственные 
+			 
+			 
+			 Амфетамины, антрациклины, кокаин, циклофосфамид, этанол, фторурацил, литий, катехоламины, интерлейкин-2, трастузумаб, клозапин 
+			 
+		 
+		 
+			 
+			 Тяжелые металлы 
+			 
+			 
+			 Медь, железо, свинец (редко, чаще накопление внутри кардиомиоцитов) 
+			 
+		 
+		 
+			 
+			 Разное 
+			 
+			 
+			 Укусы насекомых, змей, скорпионов, отравление мышьяком, угарным газом 
+			 
+		 
+		 
+			 
+			 Гормоны 
+			 
+			 
+			 Феохромоцитома, авитаминоз В1 
+			 
+		 
+		 
+			 
+			 Физические 
+			 
+			 
+			 Радиация, электрошок 
+			 
+		 
+	 
+ 
+
+   
+
+ Современное представление о патогенезе вирусного и аутоиммунного миокардита сформировано на основании экспериментальных данных. Фундаментальные экспериментальные исследования были выполнены на мышах. В качестве инфекционного агента использован вирус Коксаки типа В [6-9]. 
+
+ Jay W. Mason и соавт., предложили выделять в развитии миокардита три фазы. Деление на фазы не является догмой, в каждую из трех фаз может преобладать тот или иной патогенетический механизм развития заболевания (рис.1) [10]. 
+
+   
+
+   
+ 
+
+ <img src="data:image/png;base64,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" style="height:250px; width:444px" /> 
+
+ Рис. 1. Схема стадийности развития миокардита (J.W. Mason et al., 2003) 
+
+ В первую фазу в результате проникновения вирусов путем эндоцитоза через специфические рецепторы внутрь КМЦ происходит активизация защитных механизмов, направленных на сдерживание попадания вирусов в другие, неповрежденные миоциты. Таким образом, проникнув в КМЦ вирусы реплицируются и вызывают миоцитолиз и активизацию синтеза микро-РНК, что в свою очередь приводит к апоптозу и некрозу [10]. В результате прямого цитопатического действия вирусов происходит выход внутриклеточных антигенов и активируется иммунная система. В итоге, развивается воспалительная клеточная инфильтрация (Т-киллеры, макрофаги, нейтрофилы). Первая фаза заболевания завершается элиминацией вирусов при адекватном иммунном ответе или переходом во вторую - вторичное аутоиммунное повреждение КМЦ.Рис. 1. Схема стадийности развития миокардита (J.W. Mason et al., 2003) 
+
+ Экспериментальная Коксаки-вирус индуцированная мышиная модель миокардита легла в основу данной схемы. В патогенезе вирусного воспалительного процесса в миокарде ключевую роль играет непосредственно повреждающее действие вируса, которое может вызвать развитие острых и/или хронических ответных аутоиммунных реакций с возможным последующим ремоделированием сердца [11]. 
+
+ В организм человека вирус Коксаки типа В проникает через желудочно-кишечный тракт или дыхательную систему. В период активной виремии РНК или ДНК кардиотропных вирусов взаимодействуют со специфическими рецепторами эндотелиальных клеток, прежде чем достигают кардиомиоцитов (КМЦ) [12,13]. В дальнейшем вирусы проникают в КМЦ, взаимодействуя с коксаки-аденовирусным рецептором (КАР) на поверхности КМЦ [14-19]. КАР - это интегральный мембранный белок, который состоит из двух внеклеточных иммуноглобулиноподобных доменов [20-22]. КАР экспрессируется на высоком уровне в тканях головного мозга и сердца, достигая своего пика в перинатальном периоде, с последующим снижением общего уровня с возрастом [23]. В незрелом сердце КАР обнаружен на всей поверхности КМЦ, а во взрослом сердце, преимущественно во вставочных дисках КМЦ [24]. Основным рецептором для парвовируса В19 являются P-антиген группы крови, который присутствует на эритроцитах, эритробластах, мегакариоцитах, эндотелиальных клетках, а также клетках печени и сердца плода, и другие гликосфинголипиды, для герпеса 6 типа - СD 46 клетки [25]. Р-антиген необходим для связывания, но недостаточен для проникновения парвовируса В19 в клетки [26]. Роль корецепторов выполняют альфа-5 бета 1-итегрин Ku 80 аутоантиген [27]. Метод гибридизации in situ показал, что геном PV19 локализован в эндотелии мелких интрамиокардиальных артерий сердца у больных ВКМП [28]. 
+
+ Вторая фаза аутоиммунного миокардиального повреждения имеет место в случае, если элиминация патогена не приводит к инактивации иммунного ответа, а напротив, сопровождается развитием аутоиммунных реакций вследствие нарушения аутотолерантности. Этот процесс реализуется через ряд механизмов: 1) выделение аутоантигенных белков вследствие некроза клеток, 2) поликлональная активация лимфоцитов, 3) активация Т клеток вследствие действия ряда факторов, в том числе цитокинов, 3) феномен молекулярной мимикрии [29,30]. Реализация аутоиммунного процесса происходит также при участии ряда гуморальных факторов, а именно иммуноглобулинов, компонентов комплемента и аутореактивных антител [31]. 
+
+ В третью фазу наблюдаются признаки выраженного ремоделирования миокарда. Цитокины также вносят существенный вклад в развитие ремоделирования миокарда. Они активируют матриксные металлопротеиназы, такие как желатиназы, коллагеназы и эластазы [32,33] и способны активировать рецепторы апоптотической гибели КМЦ [34,35]. 
+
+ Необходимо отметить, что четко разделить эти 3 фазы не представляется возможным. Многие процессы переплетены, взаимосвязаны и происходят синхронно [36]. 

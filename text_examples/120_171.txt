@@ -1,0 +1,22 @@
+<div ng-bind-html="item.content | textHighlight: '1' " class="ng-binding">  
+ Мазур Н.А. Пароксизмальные тахикардии сердца. Москва: Медпрактика-М; 2005, стр. 24-105. 
+ Кушаковский М.С. Аритмии сердца. С.Петербург: Фолиант, 2007, стр. 241-331. 
+ Недоступ А.В., Благова О.В. Как лечить аритмии. Диагностика и терапия нарушений ритма и проводимости в клинической практике. Москва: МЕДпресс-информ; 2007, стр. 108-140. 
+ Blomstrom-Lindqvist C., Scheinman M., Aliot E.M.et al. ACC/AHA/HRS guidelines for the management of patients with supraventricular tachycardia. JACC; 2016; 67: e27-115. 
+ Brockmeier K, Ulmer HE, Hessling G. Termination of atrial reentrant tachycardias by using transesophageal atrial pacing. J Electrocardiol. 2002;35 Suppl:159-163. 
+ Camm AJ., Savelieva I, Ho SJ, et al. Atrial fibrillation. In Saksena S, Camm AJ (ed.) Electrophysiological disorders of the heart. Elsevier Saunders; 2012: 559-625. 
+ Chahadi FK, Singleton CB, McGavigan AD. Incessant atrial tachycardia: cause or consequence of heart failure, and the role of radiofrequency ablation. Int J Cardiol. 2013; 166: e77-79. 
+ Josephson M.E. Clinical cardiac electrophysiology. Techniques and interpretation. Lippincott Williams and Wilkins, 2008, Chapter 8 – Supraventricular Tachycardias – pp: 175-285; Chapter 10 - Preexcitation Syndromes pp: 339-446. 
+ Glatter K.A., Cheng J., Dorostkar P. et al. Electrophysiologic effects of adenosine in patients with supraventricular tachycardia. Circulation 1999; 99: 1034–1040. 
+ Kirchhof P., Benussi S., Kotecha D. et al. 2016 ESC Guidelines for the management of atrial fibrillation developed in collaboration with EACTS Eur Heart J 2016; 10: 2-60. 
+ Kistler PM, Roberts-Thomson KC, Haqqani HM, et al. P-wave morphology in focal atrial tachycardia: development of an algorithm to predict the anatomic site of origin. JACC 2006 ;48:1010-1017. 
+ Lockwood D, Nakagawa H, Jackman WM. Electrophysiologic characteristics of atrioventricular nodal reentrant tachycardia: implications for the reentrant circuits. In Zipes DP, Jalife J. (ed.) «Cardiac electrophysiology. From cell to bedside”. Philadelphia: Saunders; 2009:615-646. 
+ Olgin JE, Zipes DP. Specific arrhythmias: diagnosis and treatment. In Bonoow RO, Mann DL, Zipes DP, Libby P, Braunwald E. (ed.) Braunwalds heart disease: a textbook of cardiovascular medicine. Philadelphia: Elsevier Saunders; 2011: 771-825. 
+ Olshansky B, Sullivan RM. Inappropriate sinus tachycardia. JACC, 2013; 61: 793-801. 
+ Saoudi N, Cosio F, Waldo A, et al. Classification of atrial flutter and regular atrial tachycardia according to electrophysiologic mechanism and anatomic bases: a statement from a joint expert group from the Working Group of Arrhythmias of the European Society of Cardiology and the North American Society of Pacing and Electrophysiology. J Cardiovasc Electrophysiol. 2001; 12: 852-866. 
+ Saxena S, Bharati S, Lindsay BD, Levy S. Paroxysmal supraventricular tachycardia and pre-excitation syndromes. In Saksena S, Camm AJ (ed.) Electrophysiological disorders of the heart. Elsevier Saunders; 2012: 531-559. 
+ Sternick EB. Mahaim fibre tachycardia: recognition and management. Indian Pacing Electrophysiol J. 2003;3:47-59. 
+ Svendsen JH, Dagres N, Dobreanu D, et al. Current strategy for treatment of patients with Wolff-Parkinson-White syndrome and asymptomatic preexcitation in Europe: European Heart Rhythm Association survey. Europace. 2013;15:750-753. 
+ Weinberger BM, Marinchak R, Kowey PR. Наджелудочковые аритмии. В: «Кроуфорд М.Х. (ред.) Диагностика и лечение в кардиологии. Москва: Медпресс-информ; 2007. 
+ Wharton M, Shenasa H, Barold H, et al. Ablation of atrial tachycardia in adults. In Huang SK, Wilber DJ. (ed.) “Radiofrequency catheter ablation of cardiac arrhythmias. Basic concepts and clinical implications.” New York: Futura Publishing, 2001:139-163. ] 
+   
