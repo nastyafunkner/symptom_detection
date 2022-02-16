@@ -1,2 +1,3 @@
 # symptom_detection
-Automatic symptom detection in medical texts
+
+Automatic detection of symptoms in medical texts in Russian
